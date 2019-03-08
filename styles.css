@@ -124,8 +124,8 @@ h3 {
 }
 .intro {
   position: relative;
-  color: #343144;
-  background: #fff;
+  color: #EFEFEF;
+  background: #330F0F;
   padding: 12.5em 6em 14.5em;
 }
 .intro-text {
@@ -134,6 +134,25 @@ h3 {
 .intro p {
   font-family: 'acumin-pro-extra-condensed', sans-serif;
   font-size: 2.5em;
+  line-height: 1.8;
+  position: relative;
+  z-index: 200;
+  text-align: center;
+  letter-spacing: .325em;
+  text-transform: uppercase;
+}
+.introt {
+  position: relative;
+  color: #EFEFEF;
+  background: #330F0F;
+  padding: 12.5em 6em 14.5em;
+}
+.introt-text {
+  position: relative;
+}
+.introt p {
+  font-family: 'acumin-pro-extra-condensed', sans-serif;
+  font-size: 15px;
   line-height: 1.8;
   position: relative;
   z-index: 200;
