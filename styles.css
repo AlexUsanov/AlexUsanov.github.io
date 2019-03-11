@@ -299,3 +299,11 @@ table td {
 	border: none;
 	padding: 4px 8px;
 }
+th {
+}
+.table-shade {
+	background-color: hsla(0,0%,67%,0.75)
+}
+.invis {
+	color: hsla(0,0%,100%,0.00)
+}
